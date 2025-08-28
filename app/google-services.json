@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "994263799348",
+    "project_id": "musicuiapk",
+    "storage_bucket": "musicuiapk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994263799348:android:e70fc6684c2dbde9ce1c61",
+        "android_client_info": {
+          "package_name": "com.example.musicuiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994263799348-vbbrp1rmv7c0v03mv9mmob8jiaf60li8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.musicuiapp",
+            "certificate_hash": "e0ca097df2507fa54d5be880904d7aece45cae8f"
+          }
+        },
+        {
+          "client_id": "994263799348-bu77kmpthhanr45gm3j3f0farv9ql28a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDgaLqifx0ZFQlp3OkE100HYRbuQ2clf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994263799348-87bd256tr3oj4bu6k83sqttj5t9oor8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
